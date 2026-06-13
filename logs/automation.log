@@ -1,0 +1,43 @@
+2026-06-12 23:37:54,440 - __main__ - INFO - ============================================================
+2026-06-12 23:37:54,441 - __main__ - INFO - STARTING DAILY STORE AUTOMATION
+2026-06-12 23:37:54,441 - __main__ - INFO - Run time: 2026-06-12 23:37:54.441536
+2026-06-12 23:37:54,441 - __main__ - INFO - ============================================================
+2026-06-12 23:41:49,581 - __main__ - INFO - ============================================================
+2026-06-12 23:41:49,582 - __main__ - INFO - STARTING DAILY STORE AUTOMATION
+2026-06-12 23:41:49,582 - __main__ - INFO - Run time: 2026-06-12 23:41:49.582729
+2026-06-12 23:41:49,588 - __main__ - INFO - ============================================================
+2026-06-13 00:05:25,869 - __main__ - INFO - ============================================================
+2026-06-13 00:05:25,870 - __main__ - INFO - STARTING DAILY STORE AUTOMATION
+2026-06-13 00:05:25,870 - __main__ - INFO - Run time: 2026-06-13 00:05:25.870431
+2026-06-13 00:05:25,870 - __main__ - INFO - ============================================================
+2026-06-13 00:09:43,647 - __main__ - INFO - ============================================================
+2026-06-13 00:09:43,648 - __main__ - INFO - STARTING DAILY STORE AUTOMATION
+2026-06-13 00:09:43,649 - __main__ - INFO - Run time: 2026-06-13 00:09:43.648980
+2026-06-13 00:09:43,649 - __main__ - INFO - ============================================================
+2026-06-13 00:09:43,680 - __main__ - INFO - 
+PHASE 1: Validating stores...
+2026-06-13 00:09:43,682 - src.validator - INFO - Validating stores...
+2026-06-13 00:09:43,683 - src.validator - INFO - Found 3 stores to process
+2026-06-13 00:09:43,689 - __main__ - INFO - 
+PHASE 2: Finding contacts...
+2026-06-13 00:09:43,690 - src.contact_finder - INFO - Finding contacts...
+2026-06-13 00:09:43,690 - src.contact_finder - INFO - Found contacts for 3 stores
+2026-06-13 00:09:43,703 - __main__ - INFO - 
+PHASE 3: Conducting research...
+2026-06-13 00:09:43,703 - src.research - INFO - Conducting research on stores...
+2026-06-13 00:09:43,704 - src.research - INFO - Completed research on 3 stores
+2026-06-13 00:09:43,709 - __main__ - INFO - 
+PHASE 4: Generating messages...
+2026-06-13 00:09:43,709 - src.message_generator - INFO - Generating personalized messages...
+2026-06-13 00:09:43,709 - src.message_generator - INFO - Generated messages for 3 stores
+2026-06-13 00:09:43,720 - __main__ - INFO - 
+PHASE 5: Sending messages...
+2026-06-13 00:09:43,720 - src.delivery - INFO - Preparing to send messages...
+2026-06-13 00:09:43,738 - src.delivery - INFO - Sent 3 messages with 0 errors
+2026-06-13 00:09:43,741 - __main__ - INFO - 
+============================================================
+2026-06-13 00:09:43,752 - __main__ - INFO - ============================================================
+2026-06-13 00:09:43,752 - __main__ - INFO - Stores processed: 3
+2026-06-13 00:09:43,753 - __main__ - INFO - Messages sent: 3
+2026-06-13 00:09:43,754 - __main__ - INFO - Errors: 0
+2026-06-13 00:09:43,754 - __main__ - INFO - ============================================================

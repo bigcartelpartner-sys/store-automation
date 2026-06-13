@@ -1,0 +1,16 @@
+.env
+.env.local
+credentials.json
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+logs/
+*.log
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
